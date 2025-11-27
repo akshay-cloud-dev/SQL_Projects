@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>📘 Student Records SQL Project (Beginner Level)</h1>
 
 <p>A beginner-friendly SQL project built using MySQL, focusing on creating and managing student data using SQL commands.</p>
@@ -68,6 +67,4 @@
 <li>Stored procedures</li>
 <li>Real-world SQL workflow</li>
 </ul>
-=======
-# SQL_Projects
->>>>>>> 44076ef778f31215ba07c9ff5b378ece573f49e7
+
